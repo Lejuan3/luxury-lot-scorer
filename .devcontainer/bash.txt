@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/Lejuan3/lot-analyzer-app.git
+git add .
+git commit -m "Initial commit - lot analyzer streamlit app"
+git branch -M main
+git push -u origin main
